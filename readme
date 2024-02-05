@@ -1,0 +1,28 @@
+Projeto JavaScript de piano jogável
+
+Visão geral
+Este projeto é um piano   interativo implementado usando HTML, CSS e JavaScript.
+ Ele permite aos usuários tocar notas musicais usando as teclas do teclado e oferece recursos adicionais, como controle de volume e a opção de exibir as teclas do piano.
+
+Tecnologia usada
+HTML: A estrutura do projeto é definida em HTML, incluindo layout e elementos.
+CSS: O estilo e o design do layout são realizados usando CSS, melhorando o apelo visual do piano.
+JavaScript: O comportamento interativo e dinâmico do piano é implementado usando JavaScript. Ele captura eventos do teclado e toca as notas musicais correspondentes.
+Características
+
+Tocabilidade: os usuários podem tocar notas musicais pressionando as teclas correspondentes do teclado associadas às teclas do piano exibidas na página da web.
+Controle de volume: Um controle deslizante de volume está incluído, permitindo aos usuários ajustar o volume dos sons do piano.
+Opção Mostrar teclas: os usuários têm a opção de mostrar ou ocultar a representação visual das teclas do piano na tela.
+Estrutura de arquivo
+
+index.html: Define a estrutura da página web e inclui as teclas e controles do piano.
+style.css: contém as regras de estilo para as teclas do piano, layout e outros elementos visuais.
+script.js: implementa a funcionalidade interativa, manipulando eventos principais, controle de volume e opções de exibição principais.
+Como usar
+
+Clone o repositório:git clone <repository-url>
+Abra index.htmlem um navegador moderno.
+Uso
+Pressione as teclas correspondentes do teclado mencionadas ao lado de cada tecla do piano para tocar a nota musical associada.
+Ajuste o volume usando o controle deslizante de volume.
+Alterne a caixa de seleção "Mostrar teclas" para exibir ou ocultar as teclas do piano na tela.
