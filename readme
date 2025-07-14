@@ -13,11 +13,12 @@ Controle de volume: Um controle deslizante de volume está incluído, permitindo
 Opção Mostrar teclas: os usuários têm a opção de mostrar ou ocultar a representação visual das teclas do piano na tela.
 Estrutura de arquivo
 
-index.html: Define a estrutura da página web e inclui as teclas e controles do piano.
+index.html: 
+Define a estrutura da página web e inclui as teclas e controles do piano.
 style.css: contém as regras de estilo para as teclas do piano, layout e outros elementos visuais.
 script.js: implementa a funcionalidade interativa, manipulando eventos principais, controle de volume e opções de exibição principais.
-Como usar
 
+Como usar
 Clone o repositório:git clone <repository-url>
 Abra index.htmlem um navegador moderno.
 Uso
